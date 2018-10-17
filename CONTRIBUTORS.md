@@ -462,3 +462,8 @@
 - Place: Prague, Czech Republic
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
+
+#### Name: [Mridul Tuteja](https://github.com/mridultuteja)
+- Place: New Delhi, India
+- Bio: ML Enthusiast.
+- GitHub: [mridultuteja](https://github.com/mridultuteja)
